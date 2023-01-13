@@ -1,0 +1,1 @@
+# Capturing-Image-of-VM-on-Azure
