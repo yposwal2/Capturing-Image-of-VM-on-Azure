@@ -85,7 +85,7 @@ I'll now access the VM remotely from my computer to see everything works fine. <
 <br />
 
 <p align="center">
-VM successfully restored including Test folders <br/>
+VM is up and running & Test folders also restored <br/>
 <img src="https://i.imgur.com/dOC12WA.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
