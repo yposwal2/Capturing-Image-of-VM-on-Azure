@@ -1,10 +1,7 @@
 <h1>Capturing Image of a Virtual Machine in Azure Portal </h1>
 
 <h2>Description</h2>
-
-In this lab, I am capturing an image of a virtual machine on azure. I also created two folders into a folder named Test Folder on the VM's desktop to see if the folder will get restored when I try to restore the VM from the captured image. 
-
-After the VM restores from the captured image. I will use Microsoft Remote Desktop to see if the VM runs without issues and ensure those folders are still there.
+In this lab, I capture an image of a virtual machine on Azure and restore it to check if everything works fine. I also create two folders within a folder named Test Folder on the VM's desktop to see if they get restored when I restore the VM from the captured image. Finally, I remotely access the restored VM from my computer using Microsoft Remote Desktop and confirm that the VM is up and running and that the Test folders are restored.
 <br />
 
 <h2>Utilities Used</h2>
